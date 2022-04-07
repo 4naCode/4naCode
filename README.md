@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Noeril Agian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noeril Agian" height="30" width="40" /></a>
-<a href="https://fb.com/ridho ananta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noeril Agian" height="30" width="40" /></a>
+
+<a href="https://fb.com/Noeril Agian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noeril Agian" height="30" width="40" /></a>
 <a href="https://instagram.com/ridho.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agiancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
 <a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" /></a>
