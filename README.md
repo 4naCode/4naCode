@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4naCode&label=Profile%20views&color=0e75b6&style=flat" alt="4naCede" /> </p>
 
-- 🔭 I'm currently studying at the Muhammadiyah University of Jember and Zenius ****
+- 🔭 I'm currently studying at the  **Muhammadiyah University of Jember and Zenius**
 
 - 🌱 I’m currently learning **Python**
 
