@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Bootstrap, Web Dev, Android, Algoritma ML**
+- 💬 Ask me about **Data Analyst, Data Science, Algoritma Machine Learning**
 
 - 📫 How to reach me **anaCode86@gmail.com**
 
