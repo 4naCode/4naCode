@@ -20,12 +20,13 @@
 <a href="https://instagram.com/anakcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBvMoodOw4Yq9BG41j1DCzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
 <a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" />
+</a>
 <a href="https://www.linkedin.com/in/noeril-agian-septa-dinata/" target="_blank">
     <img src="https://terabitkomputer.com/wp-content/uploads/2020/04/logo-linkedin.png" alt="LinkedIn" height="25" width="30" />
-  </a>
-  <a href="https://www.kaggle.com/noerilagian" target="_blank">
+</a>
+<a href="https://www.kaggle.com/noerilagian" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="25" width="30" />
-  </a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
