@@ -17,10 +17,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/Noeril Agian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noeril Agian" height="30" width="40" /></a>
-<a href="https://instagram.com/anaCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/agiancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
-<a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" /> </a>
+<a href="https://instagram.com/anakcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBvMoodOw4Yq9BG41j1DCzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
+<a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" />
+<a href="https://www.linkedin.com/in/noeril-agian-septa-dinata/" target="_blank">
+    <img src="path/to/linkedin/icon.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/noerilagian" target="_blank">
+    <img src="path/to/kaggle/icon.svg" alt="Kaggle" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
