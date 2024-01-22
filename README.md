@@ -18,7 +18,7 @@
 <p align="left">
 
 <a href="https://fb.com/Noeril Agian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noeril Agian" height="30" width="40" /></a>
-<a href="https://instagram.com/ridho.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
+<a href="https://instagram.com/anaCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/agiancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
 <a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" /></a>
 </p>
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="path/to/tableau/icon.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="path/to/jupyter/icon.svg" alt="jupyter" width="40" height="40"/>
