@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anaCode&show_icons=true&locale=en" alt="anaCode" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaCode&" alt="anaCode" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaCode&" alt="anaCode" /></p>
