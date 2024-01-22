@@ -21,10 +21,10 @@
 <a href="https://www.youtube.com/channel/UCBvMoodOw4Yq9BG41j1DCzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="agiancoder" height="30" width="40" /></a>
 <a href="https://discord.gg/Noeril Agian Septa Dinata B#7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" Noeril Agian Septa Dinata B#7321" height="30" width="40" />
 <a href="https://www.linkedin.com/in/noeril-agian-septa-dinata/" target="_blank">
-    <img src="https://terabitkomputer.com/wp-content/uploads/2020/04/logo-linkedin.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://terabitkomputer.com/wp-content/uploads/2020/04/logo-linkedin.png" alt="LinkedIn" height="20" width="30" />
   </a>
   <a href="https://www.kaggle.com/noerilagian" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="20" width="30" />
   </a>
 </p>
 
