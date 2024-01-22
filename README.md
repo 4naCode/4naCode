@@ -34,8 +34,8 @@
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/>
   </a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original-wordmark.svg" alt="anaconda" width="40" height="40"/>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab-original-wordmark.svg" alt="" width="40" height="40"/>
  <!-- </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original-wordmark.svg" alt="google-colab" width="40" height="40"/>
