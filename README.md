@@ -26,10 +26,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="path/to/python/icon.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="path/to/jupyter/icon.svg" alt="jupyter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="path/to/anaconda/icon.svg" alt="anaconda" width="40" height="40"/>
