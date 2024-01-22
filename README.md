@@ -31,8 +31,8 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original-wordmark.svg" alt="google-colab" width="40" height="40"/>
+  <a href="https://Anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Anaconda/Anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
   </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original-wordmark.svg" alt="anaconda" width="40" height="40"/>
