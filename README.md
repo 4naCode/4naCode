@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="path/to/anaconda/icon.svg" alt="anaconda" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/>
   </a>
   <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
     <img src="path/to/google-data-studio/icon.svg" alt="google-data-studio" width="40" height="40"/>
