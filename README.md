@@ -25,7 +25,7 @@
     <img src="https://terabitkomputer.com/wp-content/uploads/2020/04/logo-linkedin.png" alt="LinkedIn" height="25" width="30" />
 </a>
 <a href="https://www.kaggle.com/noerilagian" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="25" width="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="18" width="30" />
 </a>
 </p>
 
