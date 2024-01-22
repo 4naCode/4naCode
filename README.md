@@ -36,9 +36,9 @@
   </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab" width="40" height="40"/> </a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/tableau-tableau-software-11564230575eotdec4m6e.png" alt="tableau" width="40" height="40"/> </a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="tableau" width="40" height="40"/> </a>
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*33KF233UB933LcWA.png" alt="lookerstudio" width="40" height="40"/>
+    <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png?rmode=max&width=400&height=358" alt="lookerstudio" width="40" height="40"/>
   </a>
 
   <!-- Add other icons as needed -->
