@@ -36,7 +36,7 @@
   </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab" width="40" height="40"/> </a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="tableau" width="40" height="40"/> </a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fid%2Fimg%2Fagama%2Fikon-logo-emoji%2Fperusahaan-teknologi%2Flogo-lengkap-tableau&psig=AOvVaw2OZBs2AHicmpXWtptAh5F2&ust=1705983364466000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCj17qR8IMDFQAAAAAdAAAAABAa" alt="tableau" width="40" height="40"/> </a>
   <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-data-studio/google-data-studio-original-wordmark.svg" alt="google-data-studio" width="40" height="40"/>
   </a>
