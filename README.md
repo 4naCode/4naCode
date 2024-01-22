@@ -36,10 +36,7 @@
   </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab" width="40" height="40"/> </a>
- <!-- </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original-wordmark.svg" alt="google-colab" width="40" height="40"/>
-  </a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-data-studio/google-data-studio-original-wordmark.svg" alt="google-data-studio" width="40" height="40"/>
   </a>
