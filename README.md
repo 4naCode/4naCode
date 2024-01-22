@@ -24,9 +24,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <p align="left">
+<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="path/to/jupyter/icon.svg" alt="python" width="40" height="40"/>
+    <img src="path/to/python/icon.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="path/to/jupyter/icon.svg" alt="jupyter" width="40" height="40"/>
@@ -45,6 +45,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaCode&show_icons=true&locale=en&layout=compact" alt="anaCode" />
 </p>
+
   
  <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="tableau" width="40" height="40"/> </a>
